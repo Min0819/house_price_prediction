@@ -2,7 +2,9 @@
 
 ## Object
 Question1: What is the distribution of SalePrice? Using Seaborn and Bootstrap.
+
 Question2: Which features will influence the saleprice of house more? What is the relationship between each feature?
+
 Question3: Predict the SalePrice using important features. Using machine learning.
 
 ## Conclusion
