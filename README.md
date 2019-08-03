@@ -1,4 +1,10 @@
 # House Sale Price Analysis and Prediction based on Regression Algorithm
+
+## Object
+Question1: What is the distribution of SalePrice? Using Seaborn and Bootstrap.
+Question2: Which features will influence the saleprice of house more? What is the relationship between each feature?
+Question3: Predict the SalePrice using important features. Using machine learning.
+
 ## Conclusion
 This project contains two parts including data analysis and house price prediction. Firstly, the distribution of house price was studied and hypothesis testing was proposed to verify the distribution. Then the project visualized data to explore the relationship between attributes of houses. Furthermore, 9 regression models were put forward to predict the SalePrice of house at first. Based on this, this report deigned an weight averaged model containing support vector regression and kernel ridge regression to get a result which is better than any individual model. To improve accuracy more, stacking strategy was applied to train models and improved cross validation accuracy up to 90%. Eventually, this model was used to predict the sale price of house in test data which realized root mean squared error 9.45%.
 
